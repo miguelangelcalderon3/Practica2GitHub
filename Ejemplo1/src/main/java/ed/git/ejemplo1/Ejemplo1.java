@@ -12,6 +12,6 @@ package ed.git.ejemplo1;
 public class Ejemplo1 {
 
     public static void main(String[] args) {
-        System.out.println("Primer ejemplo para el main");
+        System.out.println("Segundo ejemplo para el main");
     }
 }
